@@ -1,5 +1,5 @@
 import type { ImageMetadata } from 'astro';
-import defaultAvatar from '../assets/profile.jpg';
+import defaultAvatar from '../assets/river.jpg';
 
 /**
  * Allowed social entry keys in profile configuration.
